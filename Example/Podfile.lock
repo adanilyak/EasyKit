@@ -1,0 +1,16 @@
+PODS:
+  - EasyKit (0.1.0)
+
+DEPENDENCIES:
+  - EasyKit (from `../`)
+
+EXTERNAL SOURCES:
+  EasyKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  EasyKit: 3f4a01d7df0eb4b38ea71bc36d5e56b871ab22bd
+
+PODFILE CHECKSUM: d9cd8ae7ad8438432975b6e77e66aa54c786eb52
+
+COCOAPODS: 1.4.0.beta.2
